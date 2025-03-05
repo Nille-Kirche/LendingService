@@ -3,5 +3,5 @@ CREATE TABLE lending (
     "lend_at" date NOT NULL,
     "return_at" date NOT NULL,
     "book_isbn" text NOT NULL,
-    "accountnumber" number NOT NULL
+    "accountnumber" INT NOT NULL
 )
