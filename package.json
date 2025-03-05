@@ -1,6 +1,11 @@
 {
   "dependencies": {
+    "@hono/node-server": "^1.13.8",
+    "hono": "^4.7.4",
     "pg": "^8.13.3",
     "typescript": "^5.8.2"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.11.11"
   }
 }
